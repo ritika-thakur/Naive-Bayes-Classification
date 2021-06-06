@@ -2,7 +2,7 @@
 
 In this project, I have trained a model using Naive Bayes algorithm while applying PCA, to classify if an email is spam or non spam. The text processing has been done applying the following tasks:
 
-![alt text](https://miro.medium.com/max/1912/1*fTPhu7PqgIbnngbWG5zFWA.gif)
+![alt text](https://media.tenor.com/images/d38f1739be77aaf1b1a825f6899788cb/tenor.gif)
 
 1. Removing the Subject of emails
 2. Word tokenization
