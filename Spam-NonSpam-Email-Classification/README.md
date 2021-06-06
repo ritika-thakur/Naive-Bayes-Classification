@@ -11,5 +11,5 @@ In this project, I have trained a model using Naive Bayes algorithm while applyi
 5. Removing Waste Words
 6. Removing Stop Words
 7. Adding pos(part of speech) tags
-8. Token_lemmatization
+8. Token lemmatization
 9. Finding TF-IDF matrix
