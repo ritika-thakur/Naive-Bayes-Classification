@@ -80,7 +80,7 @@ class gaussian_nb:
             
             
             
-    def apply_dim_reduction(xerox_copy,data,n_components):
+    def apply_dim_reduction(xerox_copy, data, n_components):
         
         X = np.array(data)
         
